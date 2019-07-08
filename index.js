@@ -20,9 +20,9 @@ console.log(message);
 describe("Message", () => {  ;
 it ("gives the name and height", () +> { ;
 
-expecct (index.message). to Include (index.name)
+expecct (index.message). to Include (index.name);
 
-expect (Index.message).toInclude (index.height)
+expect (Index.message).toInclude (index.height) ;
 })
 })
 */
